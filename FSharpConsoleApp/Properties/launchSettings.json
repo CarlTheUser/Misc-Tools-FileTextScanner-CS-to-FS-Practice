@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FSharpConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "directory-source:prompt"
+    }
+  }
+}
